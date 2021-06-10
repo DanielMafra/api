@@ -51,7 +51,7 @@
   ],
   "combos": [
     {
-      "id": 1,
+      "id": 7,
       "img": "https://i.imgur.com/eCbMGmW.png",
       "offer": true,
       "title": "Combo 01",
@@ -59,7 +59,7 @@
       "price": 35
     },
     {
-      "id": 2,
+      "id": 8,
       "img": "https://i.imgur.com/eCbMGmW.png",
       "offer": true,
       "title": "Combo 02",
@@ -67,7 +67,7 @@
       "price": 42
     },
     {
-      "id": 3,
+      "id": 9,
       "img": "https://i.imgur.com/eCbMGmW.png",
       "offer": true,
       "title": "Combo 03",
@@ -75,7 +75,7 @@
       "price": 26
     },
     {
-      "id": 4,
+      "id": 10,
       "img": "https://i.imgur.com/eCbMGmW.png",
       "offer": false,
       "title": "Combo 04",
@@ -83,7 +83,7 @@
       "price": 22
     },
     {
-      "id": 5,
+      "id": 11,
       "img": "https://i.imgur.com/eCbMGmW.png",
       "offer": false,
       "title": "Combo 05",
@@ -91,7 +91,7 @@
       "price": 52
     },
     {
-      "id": 6,
+      "id": 12,
       "img": "https://i.imgur.com/eCbMGmW.png",
       "offer": false,
       "title": "Combo 06",
@@ -101,7 +101,7 @@
   ],
   "sobremesas": [
     {
-      "id": 1,
+      "id": 13,
       "img": "https://i.imgur.com/yE6oY6W.png",
       "offer": true,
       "title": "Sorvete 01",
@@ -109,7 +109,7 @@
       "price": 3
     },
     {
-      "id": 2,
+      "id": 14,
       "img": "https://i.imgur.com/yE6oY6W.png",
       "offer": true,
       "title": "Sorvete 02",
@@ -117,7 +117,7 @@
       "price": 4
     },
     {
-      "id": 3,
+      "id": 15,
       "img": "https://i.imgur.com/yE6oY6W.png",
       "offer": false,
       "title": "Sorvete 03",
@@ -125,7 +125,7 @@
       "price": 5
     },
     {
-      "id": 4,
+      "id": 16,
       "img": "https://i.imgur.com/yE6oY6W.png",
       "offer": false,
       "title": "Sorvete 04",
@@ -133,7 +133,7 @@
       "price": 4
     },
     {
-      "id": 5,
+      "id": 17,
       "img": "https://i.imgur.com/yE6oY6W.png",
       "offer": false,
       "title": "Sorvete 05",
@@ -141,7 +141,7 @@
       "price": 7
     },
     {
-      "id": 6,
+      "id": 18,
       "img": "https://i.imgur.com/yE6oY6W.png",
       "offer": false,
       "title": "Sorvete 06",
@@ -151,7 +151,7 @@
   ],
   "bebidas": [
     {
-      "id": 1,
+      "id": 19,
       "img": "https://i.imgur.com/htgm9iD.png",
       "offer": true,
       "title": "Bebida 01",
@@ -159,7 +159,7 @@
       "price": 8
     },
     {
-      "id": 2,
+      "id": 20,
       "img": "https://i.imgur.com/htgm9iD.png",
       "offer": true,
       "title": "Bebida 02",
@@ -167,7 +167,7 @@
       "price": 12
     },
     {
-      "id": 3,
+      "id": 21,
       "img": "https://i.imgur.com/htgm9iD.png",
       "offer": false,
       "title": "Bebida 03",
@@ -175,7 +175,7 @@
       "price": 7
     },
     {
-      "id": 4,
+      "id": 22,
       "img": "https://i.imgur.com/htgm9iD.png",
       "offer": false,
       "title": "Bebida 04",
@@ -183,7 +183,7 @@
       "price": 11
     },
     {
-      "id": 5,
+      "id": 23,
       "img": "https://i.imgur.com/htgm9iD.png",
       "offer": false,
       "title": "Bebida 05",
@@ -191,7 +191,7 @@
       "price": 5
     },
     {
-      "id": 6,
+      "id": 24,
       "img": "https://i.imgur.com/htgm9iD.png",
       "offer": false,
       "title": "Bebida 06",
@@ -201,7 +201,7 @@
   ],
   "pizza": [
     {
-      "id": 1,
+      "id": 25,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "offer": true,
       "title": "Pizza 01",
@@ -209,7 +209,7 @@
       "price": 37
     },
     {
-      "id": 2,
+      "id": 26,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "offer": true,
       "title": "Pizza 02",
@@ -217,7 +217,7 @@
       "price": 45
     },
     {
-      "id": 3,
+      "id": 27,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "offer": true,
       "title": "Pizza 03",
@@ -225,7 +225,7 @@
       "price": 52
     },
     {
-      "id": 4,
+      "id": 28,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "offer": false,
       "title": "Pizza 04",
@@ -233,7 +233,7 @@
       "price": 67
     },
     {
-      "id": 5,
+      "id": 29,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "offer": false,
       "title": "Pizza 05",
@@ -241,7 +241,7 @@
       "price": 49
     },
     {
-      "id": 6,
+      "id": 30,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "offer": false,
       "title": "Pizza 06",

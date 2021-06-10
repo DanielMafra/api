@@ -99,7 +99,7 @@
       "price": 35
     }
   ],
-  "desserts": [
+  "sobremesas": [
     {
       "id": 1,
       "img": "https://i.imgur.com/yE6oY6W.png",
@@ -149,7 +149,7 @@
       "price": 6
     }
   ],
-  "drinks": [
+  "bebidas": [
     {
       "id": 1,
       "img": "https://i.imgur.com/htgm9iD.png",

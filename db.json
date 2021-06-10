@@ -1,11 +1,32 @@
 {
-  "posts": [
+  "burguers": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "burguer"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "combos": [
+    {
+      "id": 1,
+      "title": "combo"
+    }
+  ],
+  "desserts": [
+    {
+      "id": 1,
+      "title": "dessert"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "title": "drink"
+    }
+  ],
+  "pizza": [
+    {
+      "id": 1,
+      "title": "pizza"
+    }
+  ],
 }

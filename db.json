@@ -2,7 +2,7 @@
   "burguers": [
     {
       "id": 1,
-      "img": "http://localhost:3000/src/Assets/burguer.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Duplo Burguer",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -10,7 +10,7 @@
     },
      {
       "id": 2,
-      "img": "http://localhost:3000/src/Assets/burguer.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Triplo Burguer",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -18,7 +18,7 @@
     },
      {
       "id": 3,
-      "img": "http://localhost:3000/src/Assets/burguer.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Chicken Burguer",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -26,7 +26,7 @@
     },
      {
       "id": 4,
-      "img": "http://localhost:3000/src/Assets/burguer.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Kids Burguer",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -34,7 +34,7 @@
     },
      {
       "id": 5,
-      "img": "http://localhost:3000/src/Assets/burguer.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Picanha Burguer",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -42,7 +42,7 @@
     },
      {
       "id": 6,
-      "img": "http://localhost:3000/src/Assets/burguer.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Duplo Burguer",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -52,7 +52,7 @@
   "combos": [
     {
       "id": 1,
-      "img": "http://localhost:3000/src/Assets/combo.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Combo 01",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -60,7 +60,7 @@
     },
     {
       "id": 2,
-      "img": "http://localhost:3000/src/Assets/combo.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Combo 02",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -68,7 +68,7 @@
     },
     {
       "id": 3,
-      "img": "http://localhost:3000/src/Assets/combo.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Combo 03",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -76,7 +76,7 @@
     },
     {
       "id": 4,
-      "img": "http://localhost:3000/src/Assets/combo.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Combo 04",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -84,7 +84,7 @@
     },
     {
       "id": 5,
-      "img": "http://localhost:3000/src/Assets/combo.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Combo 05",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -92,7 +92,7 @@
     },
     {
       "id": 6,
-      "img": "http://localhost:3000/src/Assets/combo.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Combo 06",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -102,7 +102,7 @@
   "desserts": [
     {
       "id": 1,
-      "img": "http://localhost:3000/src/Assets/dessert.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Sorvete 01",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -110,7 +110,7 @@
     },
     {
       "id": 2,
-      "img": "http://localhost:3000/src/Assets/dessert.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Sorvete 02",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -118,7 +118,7 @@
     },
     {
       "id": 3,
-      "img": "http://localhost:3000/src/Assets/dessert.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Sorvete 03",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -126,7 +126,7 @@
     },
     {
       "id": 4,
-      "img": "http://localhost:3000/src/Assets/dessert.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Sorvete 04",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -134,7 +134,7 @@
     },
     {
       "id": 5,
-      "img": "http://localhost:3000/src/Assets/dessert.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Sorvete 05",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -142,7 +142,7 @@
     },
     {
       "id": 6,
-      "img": "http://localhost:3000/src/Assets/dessert.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Sorvete 06",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -152,7 +152,7 @@
   "drinks": [
     {
       "id": 1,
-      "img": "http://localhost:3000/src/Assets/drink.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Bebida 01",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -160,7 +160,7 @@
     },
     {
       "id": 2,
-      "img": "http://localhost:3000/src/Assets/drink.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Bebida 02",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -168,7 +168,7 @@
     },
     {
       "id": 3,
-      "img": "http://localhost:3000/src/Assets/drink.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Bebida 03",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -176,7 +176,7 @@
     },
     {
       "id": 4,
-      "img": "http://localhost:3000/src/Assets/drink.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Bebida 04",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -184,7 +184,7 @@
     },
     {
       "id": 5,
-      "img": "http://localhost:3000/src/Assets/drink.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Bebida 05",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -192,7 +192,7 @@
     },
     {
       "id": 6,
-      "img": "http://localhost:3000/src/Assets/drink.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Bebida 06",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -202,7 +202,7 @@
   "pizza": [
     {
       "id": 1,
-      "img": "http://localhost:3000/src/Assets/pizza.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Pizza 01",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -210,7 +210,7 @@
     },
     {
       "id": 2,
-      "img": "http://localhost:3000/src/Assets/pizza.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "Pizza 02",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -218,7 +218,7 @@
     },
     {
       "id": 3,
-      "img": "http://localhost:3000/src/Assets/pizza.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Pizza 03",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -226,7 +226,7 @@
     },
     {
       "id": 4,
-      "img": "http://localhost:3000/src/Assets/pizza.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Pizza 04",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -234,7 +234,7 @@
     },
     {
       "id": 5,
-      "img": "http://localhost:3000/src/Assets/pizza.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Pizza 05",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
@@ -242,7 +242,7 @@
     },
     {
       "id": 6,
-      "img": "http://localhost:3000/src/Assets/pizza.png",
+      "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": false,
       "title": "Pizza 06",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",

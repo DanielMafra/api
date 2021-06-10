@@ -106,7 +106,7 @@
       "offer": true,
       "title": "Sorvete 01",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
-      "price": 3.50
+      "price": 3
     },
     {
       "id": 2,
@@ -130,7 +130,7 @@
       "offer": false,
       "title": "Sorvete 04",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
-      "price": 4.50
+      "price": 4
     },
     {
       "id": 5,
@@ -172,7 +172,7 @@
       "offer": false,
       "title": "Bebida 03",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
-      "price": 7.50
+      "price": 7
     },
     {
       "id": 4,
@@ -188,7 +188,7 @@
       "offer": false,
       "title": "Bebida 05",
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
-      "price": 5.50
+      "price": 5
     },
     {
       "id": 6,
